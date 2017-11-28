@@ -1,0 +1,39 @@
+Schizoaffective
+1-Therapy :Psychotherapies , Psychoeducation , Psychotherapy and Family therapy.
+2-Medication: Antipsychotic, Anticonvulsant and Selective Serotonin Reuptake Inhibitor (SSRI).
+
+
+Bipolar
+1-Therapy: Support group, Cognitive behavioral therapy, Psychoeducation, Psychotherapy and Family therapy.
+2-Medication: Antipsychotic, Selective Serotonin Reuptake Inhibitor (SSRI), Anticonvulsant, Lithum and Benzodiazepines.
+3-Supportive care: Hospitalization.
+
+Schizophrenia
+1-Therapy: Psychoeducation, Psychotherapy and Family therapy.
+2-Medication: Antipsychotic, Anticonvulsant and Selective Serotonin Reuptake Inhibitor (SSRI).
+
+
+Major Depressive
+1-Therapy: Cognitive behavioral therapy, Behavior therapy and Psychotherapy.
+2-Medication: Selective Serotonin Reuptake Inhibitor (SSRI), Antidepressant and Antipsychotic.
+3-Medical procedure: Electroconvulsive therapy.
+
+Panic Disorder With Agoraphobia
+1-Therapy: Cognitive behavioral therapy.
+2-Medication: Selective Serotonin Reuptake Inhibitor (SSRI), Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs), Benzodiazepines and Tricyclic Antidepressants.
+
+
+Dissociative Identity Disorder
+1-Therapy: Cognitive behavioral therapy,Family therapy, Group therapy and Psychotherapy.
+2-Medication: Antidepressants and Anxiolytics might help with mood disorders.
+3-Clinical Hypnosis: Help to access repressed memories, control problematic behaviors, such as self-mutilation and eating disorders, and help fuse the alters during the integration process.
+
+Dysthymia
+1-Self-care: Physical exercise.
+2-Therapy: Psychotherapy, Cognitive behavioral therapy.
+3-Medication: Selective Serotonin Reuptake Inhibitor (SSRI), Antidepressant, Serotonin-norepinephrine reuptake inhibitors, Mirtazapine and Bupropion.
+
+Generalized Anxiety Disorder
+1-Self-care: Physical exercise, Stress management and Relaxation techniques.
+2-Therapy: Mindfulness therapies, Cognitive behavioral therapy, Mindfulness, Psychoanalysis and Psychotherapy.
+3-Medication: Selective Serotonin Reuptake Inhibitor (SSRI), Antidepressant and Anxiolytic.
